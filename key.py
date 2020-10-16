@@ -1,3 +1,0 @@
-botkey = 'NzY1NTA0NzMzMTI5NDc0MDky.X4Vx1g.Qm-SYfJCKGckoJlpUAdG8bHMmh8'
-
-osukey = '3ae3b35e74289e789eaabc68d920814b54f64cb8'
